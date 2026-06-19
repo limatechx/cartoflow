@@ -50,7 +50,7 @@ DATABASE_PATH=./database.sqlite
 
 ```bash
 npm run seed
-Verifique as credenciais criadas já existentes no arquivo "database.sqlite". (Necessrária a extensão SQLite Viewer):
+Verifique/visualize as credenciais criadas já existentes no arquivo "database.sqlite". (Necessária a extensão SQLite Viewer):
 Login: admin@cartoflow.com e atendente@cartoflow.com
 Senha geral: 123456
 ```
