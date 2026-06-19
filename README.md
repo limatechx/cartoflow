@@ -46,10 +46,13 @@ JWT_SECRET=cartoflow_secret_key
 DATABASE_PATH=./database.sqlite
 ```
 
-### 3. Popular o banco de dados (opcional)
+### 3. Popular o banco de dados
 
 ```bash
 npm run seed
+Verifique as credenciais criadas já existentes:
+Login: admin@cartoflow.com e atendente@cartoflow.com
+Senha geral: 123456
 ```
 
 ### 4. Iniciar em modo desenvolvimento
